@@ -187,8 +187,8 @@
         <bt:Image id="Icon.80x80" DefaultValue="https://lucabrx.github.io/tempp/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://lucabrx.github.io/tempp/commands.html" />
-        <bt:Url id="Taskpane.Url" DefaultValue="https://lucabrx.github.io/tempp/taskpane.html" />
+        <bt:Url id="Commands.Url" DefaultValue="https://lucabrx.github.io/tempp/src/commands/commands.html" />
+        <bt:Url id="Taskpane.Url" DefaultValue="https://lucabrx.github.io/tempp/src/taskpane/taskpane.html" />
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GetStarted.Title" DefaultValue="Get started with your sample add-in!" />
