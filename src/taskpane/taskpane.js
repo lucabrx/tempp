@@ -1,8 +1,8 @@
 const TAG_PREFIX = "LINKED_IMAGE_URL:";
 const IMAGE_GALLERY = [
-  { id: 1, name: "Office View", url: "https://placehold.co/600x400?text=Office" },
-  { id: 2, name: "Team Meeting", url: "https://placehold.co/600x400?text=Team" },
-  { id: 3, name: "Graph Report", url: "https://placehold.co/600x400?text=Graph" },
+  { id: 1, name: "Office View", url: "https://placehold.co/600x400" },
+  { id: 2, name: "Team Meeting", url: "https://placehold.co/600x400" },
+  { id: 3, name: "Graph Report", url: "https://placehold.co/600x400" },
 ];
 
 let selectedImage = null;
